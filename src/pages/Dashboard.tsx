@@ -267,7 +267,7 @@ export default function Dashboard() {
       >
         <div className={`border-b border-border/30 flex items-center gap-3 ${sidebarCollapsed ? "p-3 justify-center" : "p-4"}`}>
           <img
-            src="https://raw.githubusercontent.com/udaykiranpalepu-dotcom/photos/refs/heads/main/logo.png"
+            src="https://raw.githubusercontent.com/udaykiranpalepu-dotcom/photos/refs/heads/main/logo-removebg-preview.png"
             alt="NxtWave"
             className="h-9 w-9 shrink-0 rounded-lg object-contain bg-white/5"
           />
@@ -354,7 +354,7 @@ export default function Dashboard() {
                 <Menu className="h-4 w-4" />
               </Button>
               <img
-                src="https://raw.githubusercontent.com/udaykiranpalepu-dotcom/photos/refs/heads/main/logo.png"
+                src="https://raw.githubusercontent.com/udaykiranpalepu-dotcom/photos/refs/heads/main/logo-removebg-preview.png"
                 alt="NxtWave"
                 className="h-9 w-auto object-contain hidden sm:block"
               />
