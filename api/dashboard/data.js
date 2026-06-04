@@ -1,6 +1,6 @@
 const GAS_URL =
   process.env.GAS_API_URL ||
-  "https://script.google.com/macros/s/AKfycbyug2X_-ukMFm-1zKBPxGTxtIejJMGtJDilOjNT8Vr65VMYDu3y_psOaylHgZbUysnc/exec";
+  "https://script.google.com/macros/s/AKfycbxOeqHyxR8flIAibvy1GeK0Wvzc3OEwjWlpfLLOBAaofDWIJpPYtlxyolSNq2l70scTxA/exec";
 
 async function fetchFollowingRedirects(url, maxRedirects = 10) {
   let currentUrl = url;
